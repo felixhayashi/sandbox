@@ -6,11 +6,7 @@ TiddlyMap
 <img src="https://cloud.githubusercontent.com/assets/4307137/9981524/386d61b0-5fc0-11e5-9485-94f75be5e049.png" width="24%" />
 <img src="https://cloud.githubusercontent.com/assets/4307137/9981523/386d00a8-5fc0-11e5-9006-11ed7abce725.png" width="24%" />
 
-TiddlyMap is a TiddlyWiki plugin that turns your favourite personal note taking software in a *wiki-concept-map hybrid*. Yes, you will be able to do both: drawing maps and putting down knowledge in a wiki way. TiddlyMap will allow you to visually link and create wiki topics in order to create *clickable graphs*.
-
-* **Create concept maps** to visually express and structure your knowledge.
-* **Create dependency graphs** to e.g. organize and describe your tasks.
-* **Visualize your topic structures** to get an immediate grasp of topics and relations.
+TiddlyMap is a TiddlyWiki plugin that turns your favourite personal note taking software in a *wiki-concept-map hybrid*. Yes, you will be able to do both: drawing maps and putting down knowledge in a wiki way. TiddlyMap will allow you to visually link and create wiki topics in order to create *clickable graphs*, e.g. *concept maps*, *dependency graphs*. Moreover it will automatically *visualize your topic structures* so you get an immediate grasp of topics and relations.
 
 Demo
 ---------------------------------------------------------------------
